@@ -1,4 +1,8 @@
-This is my first git projec
+we still have more to add This is my first git projec
 
 
-i hav ahdded some more
+i hav ahdded some mor 
+
+
+
+hmm, this is interesting. e
